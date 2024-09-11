@@ -57,6 +57,11 @@ body{
     animation-delay: .18s;
 }
 
+.space {
+    width: 1rem; /* ajusta según lo que necesites */
+    display: inline-block;
+}
+
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
